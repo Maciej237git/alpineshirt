@@ -146,7 +146,7 @@
 .has-js .site-navigation{width:auto;padding:0;justify-content:flex-start}
 .has-js .site-navigation.is-open{
   position:fixed;z-index:19;left:0;right:0;top:var(--mobile-nav-top,5.5rem);bottom:0;
-  display:flex;flex-direction:column;align-items:stretch;gap:0;width:100%;margin:0;
+  display:flex;flex-direction:column;align-items:stretch;justify-content:flex-start;gap:0;width:100%;margin:0;
   padding:6px 24px 32px;overflow-y:auto;background:rgba(250,247,239,.98);
   border-bottom:1px solid rgba(8,76,49,.12);box-shadow:0 18px 42px #183e2f14;
   -webkit-overflow-scrolling:touch
@@ -155,8 +155,14 @@
   padding:15px 0;border-bottom:1px solid rgba(8,76,49,.08)
 }
 .has-js .site-navigation.is-open>a.button{
-  margin-top:18px;padding:15px 20px;justify-content:center;width:100%;border-bottom:0
+  margin-top:18px;padding:15px 20px;justify-content:center;align-items:center;width:100%;
+  gap:10px;border-bottom:0;text-align:center
 }
+.has-js .site-navigation.is-open>a.button .button-text{flex:0 0 auto}
+.has-js .site-navigation.is-open>a.button .icon{margin:0;width:18px;height:18px;flex:0 0 auto}
+.site-navigation a.button{display:inline-flex;justify-content:center;align-items:center;gap:10px}
+.site-navigation a.button .button-text{flex:0 0 auto}
+.site-navigation a.button .icon{flex:0 0 auto;margin:0}
 body.is-menu-open{overflow:hidden}
 }
 
@@ -198,9 +204,11 @@ body.is-menu-open{overflow:hidden}
 .footer-bottom>a{margin-left:0;align-self:flex-start;padding:4px 0}
 }
 
-.contact-strip>a{align-items:center;gap:10px;line-height:1.25;font-weight:500;color:var(--forest)}
-.contact-strip .icon{
-  width:20px;height:20px;stroke-width:1.75;flex-shrink:0;align-self:center;display:block
+.contact-strip>a{
+  display:inline-flex;align-items:center;gap:10px;line-height:1.25;font-weight:500;color:var(--forest)
+}
+.contact-strip-icon{
+  width:18px;height:18px;flex-shrink:0;display:block;fill:none;stroke:currentColor;
+  stroke-width:2;stroke-linecap:round;stroke-linejoin:round
 }
 .contact-strip a:hover{color:var(--salmon-dark)}
-.contact-strip a:hover .icon{stroke:var(--salmon-dark)}

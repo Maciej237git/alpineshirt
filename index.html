@@ -26,11 +26,11 @@
 <body>
   <a class="skip-link" href="#main">Skip to content</a>
   <svg class="icon-library" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
-    <symbol id="arrow" viewBox="0 0 24 24"><path d="M9 6l6 6-6 6"/></symbol>
+    <symbol id="arrow" viewBox="0 0 24 24"><path d="M5 12h14"/><path d="m13 6 6 6-6 6"/></symbol>
     <symbol id="pin" viewBox="0 0 24 24"><path d="M19 10c0 5-7 11-7 11S5 15 5 10a7 7 0 1 1 14 0Z"/><circle cx="12" cy="10" r="2.5"/></symbol>
     <symbol id="instagram" viewBox="0 0 24 24"><rect x="3" y="3" width="18" height="18" rx="5"/><circle cx="12" cy="12" r="4"/><circle cx="17.5" cy="6.5" r=".6"/></symbol>
-    <symbol id="phone" viewBox="0 0 24 24"><path d="M6.5 3h2l1.2 4.2a1 1 0 0 1-.28 1.01l-1.42 1.42a14 14 0 0 0 6.06 6.06l1.42-1.42a1 1 0 0 1 1.01-.28L20.5 15v2a2 2 0 0 1-2 2A17 17 0 0 1 3 8.5 2 2 0 0 1 5 6.5Z"/></symbol>
-    <symbol id="mail" viewBox="0 0 24 24"><path d="M4 6h16a2 2 0 0 1 2 2v8a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2Z"/><path d="m4 8 8 5.5L20 8"/></symbol>
+    <symbol id="phone" viewBox="0 0 24 24"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"/></symbol>
+    <symbol id="mail" viewBox="0 0 24 24"><path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"/><path d="m22 6-10 7L2 6"/></symbol>
     <symbol id="plus" viewBox="0 0 24 24"><path d="M12 5v14M5 12h14"/></symbol>
     <symbol id="close" viewBox="0 0 24 24"><path d="m6 6 12 12M6 18 18 6"/></symbol>
     <symbol id="mountains" viewBox="0 0 80 48"><path d="m3 43 22-28 12 15L52 5l25 38H3Z"/><path d="m18 24 7 4 7-4m13-7 7 5 7-5"/></symbol>
@@ -42,7 +42,7 @@
       <a class="brand" href="#home" aria-label="Alpine Shirt Co. home"><img src="assets/logo-alpine-original.jpg" width="678" height="606" alt="Alpine Shirt Co., Helen, Georgia"><span class="brand-type">Alpine Shirt Co.<small>HELEN, GEORGIA</small></span></a>
       <button class="menu-toggle" aria-expanded="false" aria-controls="site-navigation" hidden><span class="menu-lines" aria-hidden="true"></span><span class="sr-only">Open navigation</span></button>
       <nav id="site-navigation" class="site-navigation" aria-label="Main navigation">
-        <a href="#our-shop">Our shop</a><a href="#finds">The good stuff</a><a href="#photos">Photos</a><a href="#reviews">Reviews</a><a class="button button-small" href="#visit">Visit us <svg class="icon"><use href="#arrow"/></svg></a>
+        <a href="#our-shop">Our shop</a><a href="#finds">The good stuff</a><a href="#photos">Photos</a><a href="#reviews">Reviews</a><a class="button button-small" href="#visit"><span class="button-text">Visit us</span><svg class="icon" viewBox="0 0 24 24" aria-hidden="true"><use href="#arrow"/></svg></a>
       </nav>
     </div>
   </header>
@@ -128,7 +128,7 @@
           </div>
           <div class="map-panel"><div class="map-preview" id="map-preview"><div class="map-preview-photo" aria-hidden="true"><img src="assets/shop-entrance.webp" width="1200" height="1600" alt="" loading="lazy" decoding="async"></div><div class="map-preview-scrim" aria-hidden="true"></div><div class="map-preview-content"><div class="map-preview-badges" aria-hidden="true"><span>11 River St.</span><span>8817 N Main St.</span></div><p class="eyebrow">IN THE HEART OF HELEN</p><h3>We’ll meet you downtown.</h3><p class="map-preview-lead">A real peek at Alpine while you pick a stop, then load Google Maps when you’re ready.</p><figure class="map-preview-thumb"><img src="assets/hero-storefront.webp" width="1284" height="1714" alt="" loading="lazy" decoding="async"><figcaption>Helen, Georgia</figcaption></figure><div class="map-preview-actions"><button id="load-map" class="button">Show River Street map <svg class="icon"><use href="#pin"/></svg></button><a class="text-link" id="map-fallback" href="https://maps.google.com/?cid=7030248114201978366" target="_blank" rel="noopener noreferrer">Open in Google Maps <svg class="icon"><use href="#arrow"/></svg></a></div></div></div><div id="map-container" hidden></div><div class="map-label"><span><svg class="icon"><use href="#pin"/></svg><span id="map-label-text">Alpine Shirt Co., River Street</span></span><a id="map-external" href="https://maps.google.com/?cid=7030248114201978366" target="_blank" rel="noopener noreferrer" aria-label="Open selected shop in Google Maps"><svg class="icon"><use href="#arrow"/></svg></a></div></div>
         </div>
-        <div class="contact-strip"><p>A question before you stop by?</p><a href="tel:+17064933220"><svg class="icon"><use href="#phone"/></svg> +1 (706) 493-3220</a><a href="mailto:alpineshirtco@gmail.com"><svg class="icon"><use href="#mail"/></svg> alpineshirtco@gmail.com</a></div>
+        <div class="contact-strip"><p>A question before you stop by?</p><a href="tel:+17064933220"><svg class="contact-strip-icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"/></svg><span>+1 (706) 493-3220</span></a><a href="mailto:alpineshirtco@gmail.com"><svg class="contact-strip-icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"/><path d="m22 6-10 7L2 6"/></svg><span>alpineshirtco@gmail.com</span></a></div>
       </div>
     </section>
 
