@@ -197,3 +197,10 @@ body.is-menu-open{overflow:hidden}
 .footer-bottom>span:nth-child(2){order:0;width:auto;line-height:1.5}
 .footer-bottom>a{margin-left:0;align-self:flex-start;padding:4px 0}
 }
+
+.contact-strip>a{align-items:center;gap:10px;line-height:1.25;font-weight:500;color:var(--forest)}
+.contact-strip .icon{
+  width:20px;height:20px;stroke-width:1.75;flex-shrink:0;align-self:center;display:block
+}
+.contact-strip a:hover{color:var(--salmon-dark)}
+.contact-strip a:hover .icon{stroke:var(--salmon-dark)}
