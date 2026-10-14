@@ -1,0 +1,257 @@
+{
+  "retrieved_on": "2026-10-14",
+  "assets": [
+    {
+      "file": "assets/logo-alpine-original.jpg",
+      "role": "Original brand logo; preserved unchanged",
+      "source": "https://alpineshirtco.infinityfreeapp.com/images/ASC%20LOGO.jpg",
+      "original_dimensions": [
+        678,
+        606
+      ],
+      "type": "original logo"
+    },
+    {
+      "file": "assets/hero-storefront.webp",
+      "alt": "Store sign and Bavarian-style surroundings in Helen",
+      "source": "https://alpineshirtco.infinityfreeapp.com/images/Image_1.jpeg",
+      "type": "website",
+      "original_dimensions": [
+        1284,
+        1714
+      ],
+      "web_dimensions": [
+        1284,
+        1714
+      ],
+      "processing": "EXIF orientation normalized; WebP compression. No invented objects or image generation."
+    },
+    {
+      "file": "assets/graphic-tees.webp",
+      "alt": "Graphic tee display inside Alpine Shirt Co.",
+      "source": "https://alpineshirtco.infinityfreeapp.com/images/Image_2.jpeg",
+      "type": "website",
+      "original_dimensions": [
+        1283,
+        1702
+      ],
+      "web_dimensions": [
+        1283,
+        1702
+      ],
+      "processing": "EXIF orientation normalized; WebP compression. No invented objects or image generation."
+    },
+    {
+      "file": "assets/graphic-wall.webp",
+      "alt": "Printed shirt designs on a wooden display wall",
+      "source": "https://alpineshirtco.infinityfreeapp.com/images/image_6.jpeg",
+      "type": "website",
+      "original_dimensions": [
+        3024,
+        4032
+      ],
+      "web_dimensions": [
+        1200,
+        1600
+      ],
+      "processing": "EXIF orientation normalized; WebP compression. No invented objects or image generation."
+    },
+    {
+      "file": "assets/souvenir-mugs.webp",
+      "alt": "Helen and Georgia souvenir mugs on shelves",
+      "source": "https://alpineshirtco.infinityfreeapp.com/images/Image_3.jpeg",
+      "type": "website",
+      "original_dimensions": [
+        1283,
+        1701
+      ],
+      "web_dimensions": [
+        1283,
+        1701
+      ],
+      "processing": "EXIF orientation normalized; WebP compression. No invented objects or image generation."
+    },
+    {
+      "file": "assets/shop-entrance.webp",
+      "alt": "Entrance display with the original Alpine Shirt Co. sign",
+      "source": "https://alpineshirtco.infinityfreeapp.com/images/Image_4.jpeg",
+      "type": "website",
+      "original_dimensions": [
+        3024,
+        4032
+      ],
+      "web_dimensions": [
+        1200,
+        1600
+      ],
+      "processing": "EXIF orientation normalized; WebP compression. No invented objects or image generation."
+    },
+    {
+      "file": "assets/alpine-dog.webp",
+      "alt": "White dog beside the Alpine Shirt Co. branded floor mat",
+      "source": "https://alpineshirtco.infinityfreeapp.com/images/image_5.jpeg",
+      "type": "website",
+      "original_dimensions": [
+        3024,
+        4032
+      ],
+      "web_dimensions": [
+        1200,
+        1600
+      ],
+      "processing": "EXIF orientation normalized; WebP compression. No invented objects or image generation."
+    },
+    {
+      "file": "assets/helen-lock.webp",
+      "alt": "Small Alpine Shirt Co. heart-shaped lock",
+      "source": "https://alpineshirtco.infinityfreeapp.com/images/IMG_2751.jpeg",
+      "type": "website",
+      "original_dimensions": [
+        3024,
+        4032
+      ],
+      "web_dimensions": [
+        1100,
+        1467
+      ],
+      "processing": "EXIF orientation normalized; WebP compression. No invented objects or image generation."
+    },
+    {
+      "file": "assets/shop-bear.webp",
+      "alt": "Large bear figure and gift shelves inside the shop",
+      "source": "https://alpineshirtco.infinityfreeapp.com/images/IMG_2241.jpeg",
+      "type": "website",
+      "original_dimensions": [
+        3024,
+        4032
+      ],
+      "web_dimensions": [
+        1200,
+        1600
+      ],
+      "processing": "EXIF orientation normalized; WebP compression. No invented objects or image generation."
+    },
+    {
+      "file": "assets/store-interior.webp",
+      "alt": "Wide view from the entrance into the real store",
+      "source": "https://alpineshirtco.infinityfreeapp.com/images/background_home.jpeg",
+      "type": "website",
+      "original_dimensions": [
+        1283,
+        529
+      ],
+      "web_dimensions": [
+        1283,
+        529
+      ],
+      "processing": "EXIF orientation normalized; WebP compression. No invented objects or image generation."
+    },
+    {
+      "file": "assets/gifts-books-plush.webp",
+      "alt": "Children’s books and plush gifts in the shop display",
+      "source": "https://www.instagram.com/alpineshirtco/p/CzaH7PdoEvQ/",
+      "type": "instagram",
+      "original_dimensions": [
+        512,
+        640
+      ],
+      "web_dimensions": [
+        512,
+        640
+      ],
+      "processing": "EXIF orientation normalized; WebP compression. No invented objects or image generation."
+    },
+    {
+      "file": "assets/shopping-moment.webp",
+      "alt": "Choosing a small souvenir beside an Alpine Shirt Co. shopping bag",
+      "source": "https://www.instagram.com/alpineshirtco/p/CzNQX1YoRFS/",
+      "type": "instagram",
+      "original_dimensions": [
+        512,
+        640
+      ],
+      "web_dimensions": [
+        512,
+        640
+      ],
+      "processing": "EXIF orientation normalized; WebP compression. No invented objects or image generation."
+    },
+    {
+      "file": "assets/helen-apparel.webp",
+      "alt": "Helen Georgia sweatshirts and tees on an in-store rack",
+      "source": "https://www.instagram.com/alpineshirtco/p/CzKdN0bgose/",
+      "type": "instagram",
+      "original_dimensions": [
+        512,
+        640
+      ],
+      "web_dimensions": [
+        512,
+        640
+      ],
+      "processing": "EXIF orientation normalized; WebP compression. No invented objects or image generation."
+    },
+    {
+      "file": "assets/instagram-dog.webp",
+      "alt": "Alpine store dog and branded floor mat",
+      "source": "https://www.instagram.com/alpineshirtco/p/CzFLld5RLNc/",
+      "type": "instagram",
+      "original_dimensions": [
+        640,
+        436
+      ],
+      "web_dimensions": [
+        640,
+        436
+      ],
+      "processing": "EXIF orientation normalized; WebP compression. No invented objects or image generation."
+    },
+    {
+      "file": "assets/instagram-shop.webp",
+      "alt": "Alpine Shirt Co. entrance and souvenir display",
+      "source": "https://www.instagram.com/alpineshirtco/p/Cy_wW7FgSlK/",
+      "type": "instagram",
+      "original_dimensions": [
+        512,
+        640
+      ],
+      "web_dimensions": [
+        512,
+        640
+      ],
+      "processing": "EXIF orientation normalized; WebP compression. No invented objects or image generation."
+    },
+    {
+      "file": "assets/fonts/dm-sans-400-normal.ttf",
+      "type": "self-hosted font",
+      "source": "https://fonts.gstatic.com/s/dmsans/v17/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAopxhTg.ttf",
+      "font_family": "DM Sans",
+      "style": "normal",
+      "weight": 400
+    },
+    {
+      "file": "assets/fonts/dm-sans-600-normal.ttf",
+      "type": "self-hosted font",
+      "source": "https://fonts.gstatic.com/s/dmsans/v17/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAfJthTg.ttf",
+      "font_family": "DM Sans",
+      "style": "normal",
+      "weight": 600
+    },
+    {
+      "file": "assets/fonts/fraunces-400-italic.ttf",
+      "type": "self-hosted font",
+      "source": "https://fonts.gstatic.com/s/fraunces/v38/6NVf8FyLNQOQZAnv9ZwNjucMHVn85Ni7emAe9lKqZTnbB-gzTK0K1ChJdt9vIVYX9G37lvd9sPEKsxx664UJf1hLTf7W.ttf",
+      "font_family": "Fraunces",
+      "style": "italic",
+      "weight": 400
+    },
+    {
+      "file": "assets/fonts/fraunces-500-normal.ttf",
+      "type": "self-hosted font",
+      "source": "https://fonts.gstatic.com/s/fraunces/v38/6NUh8FyLNQOQZAnv9bYEvDiIdE9Ea92uemAk_WBq8U_9v0c2Wa0K7iN7hzFUPJH58nib1603gg7S2nfgRYIchRujDg.ttf",
+      "font_family": "Fraunces",
+      "style": "normal",
+      "weight": 500
+    }
+  ]
+}

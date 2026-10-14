@@ -1,0 +1,19 @@
+{
+  "status": "PASS",
+  "checks": [
+    "JavaScript syntax: Node --check passed",
+    "all local HTML and CSS paths",
+    "all internal section and SVG references",
+    "duplicate IDs and one h1",
+    "photo dimensions, alt attributes and actual image decoding",
+    "font decoding and local font paths",
+    "two distinct GiftShop entities in JSON-LD",
+    "asset provenance manifest",
+    "8 gallery photos with categories"
+  ],
+  "browser_QA": "Unverified: supported browser preview unavailable in this environment.",
+  "errors": [],
+  "image_count": 19,
+  "asset_count": 19,
+  "visual_check": "Native published desktop screenshot inspected; hero caption overlap corrected."
+}

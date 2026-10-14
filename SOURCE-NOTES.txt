@@ -1,0 +1,47 @@
+ALPINE SHIRT CO. — ŹRÓDŁA I ZAKRES POTWIERDZENIA
+Odczyt: 2026-10-14
+
+STRONA AUTORA — WYŁĄCZNIE REFERENCJA
+https://mountainstyleshops.com/
+Wykorzystana do poznania stylu pracy i funkcji strony wizytówkowej. Jej adresów, nazw sklepów ani ocen nie przeniesiono do Alpine.
+
+OFICJALNA OBECNA STRONA ALPINE
+https://alpineshirtco.infinityfreeapp.com/index.html?i=1
+https://alpineshirtco.infinityfreeapp.com/aboutUs.html
+https://alpineshirtco.infinityfreeapp.com/contactUs.html
+https://alpineshirtco.infinityfreeapp.com/location.html
+
+Strony odczytane w przeglądarce. Potwierdzono asortyment: koszulki, bluzy, książki dla dzieci, biżuteria, breloki i pamiątki. Potwierdzono mail alpineshirtco@gmail.com, telefon 7064933220 i oba adresy w Helen. Oryginalne logo i zdjęcia zapisano w paczce. Osadzenia Google Maps w location.html wskazują dwa odrębne punkty.
+
+INSTAGRAM MARKI
+https://www.instagram.com/alpineshirtco/
+Publiczny profil podaje 11 River St. i 8817 N Main St. w Helen, Georgia. Pozyskano publicznie dostępne zdjęcia wybranych postów bez logowania. Wymiary i posty źródłowe są w ASSET-MANIFEST.json. Zdjęcia są pobranymi fotografiami, a nie automatycznie aktualizowanym feedem.
+
+GOOGLE MAPS — RIVER STREET
+https://maps.google.com/?cid=7030248114201978366
+Zweryfikowana strona po przekierowaniu:
+https://www.google.com/maps/place/Alpine+Shirt+Company/@34.700803,-83.7298449,17z/data=!3m1!4b1!4m6!3m5!1s0x885f49e5f5da614f:0x6190756979de65fe!8m2!3d34.700803!4d-83.7298449!16s%2Fg%2F11rsnxftlk?entry=ttu&g_ep=EgoyMDI2MTAxMi4wIKXMDSoASAFQAw%3D%3D
+Adres: 11 River St., Helen, GA 30545
+Telefon: +1 706-493-3220
+Ocena: 4.5/5; 19 opinii.
+Autorzy dwóch wykorzystanych krótkich fragmentów: Frances Kenny i Gabby K., obie opinie ocenione na 5 gwiazdek. Odczytano oryginalny tekst po angielsku, nie tłumaczenie Google.
+
+GOOGLE MAPS — MAIN STREET
+https://maps.google.com/?cid=4318962963659079152
+Zweryfikowana strona po przekierowaniu:
+https://www.google.com/maps/place/Alpine+Shirt+Company/@34.7018205,-83.7335896,17z/data=!3m1!4b1!4m6!3m5!1s0x885f376350569971:0x3bf009eebef7bdf0!8m2!3d34.7018205!4d-83.7335896!16s%2Fg%2F11ks6x5yn5?entry=ttu&g_ep=EgoyMDI2MTAxMi4wIKXMDSoASAFQAw%3D%3D
+Adres: 8817 N Main St., Helen, GA 30545
+Telefon: +1 706-493-3220
+Ocena: 4.2/5; 10 opinii.
+Autor wykorzystanego krótkiego fragmentu: H. Hays, 5 gwiazdek. Odczytano oryginalny tekst po angielsku.
+
+Opinie są wybranymi fragmentami. Witryna odsyła do wszystkich opinii Google, a oceny uwzględniają całość recenzji danej wizytówki. Danych dwóch punktów nie połączono. W samej stronie jest widoczna data odczytu i brak obietnicy automatycznej aktualizacji.
+
+GODZINY OTWARCIA
+W starszych katalogach pojawiały się rozbieżne godziny. Nie publikowano niezweryfikowanego tygodniowego grafiku ani dynamicznego statusu otwarcia; każdy punkt ma link do aktualnej wizytówki Google.
+
+FOTOGRAFIE
+Kadry pochodzą z istniejącej strony Alpine i publicznego Instagrama wskazanego przez użytkownika. Nie generowano fikcyjnych zdjęć sklepu ani produktów. Znormalizowano orientację EXIF i przygotowano WebP. Oryginały są w originals/. Nie ustalono adresu wykonania każdego kadru; galerie opisują markę, a nie konkretne lokalizacje.
+
+FONTY
+Fraunces i DM Sans pobrano z Google Fonts i zapisano lokalnie. Adresy źródłowe znajdują się w ASSET-MANIFEST.json. Informacje licencyjne odczytane z plików fontów są w assets/fonts/FONT-LICENSES.txt.
