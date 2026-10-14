@@ -154,15 +154,20 @@
 .has-js .site-navigation.is-open>a:not(.button){
   padding:15px 0;border-bottom:1px solid rgba(8,76,49,.08)
 }
-.has-js .site-navigation.is-open>a.button{
-  margin-top:18px;padding:15px 20px;justify-content:center;align-items:center;width:100%;
-  gap:10px;border-bottom:0;text-align:center
+.has-js .site-navigation.is-open>a.nav-visit-button{
+  margin-top:18px;padding:15px 20px;width:100%;border-bottom:0;
+  display:flex;justify-content:center;align-items:center;gap:0
 }
-.has-js .site-navigation.is-open>a.button .button-text{flex:0 0 auto}
-.has-js .site-navigation.is-open>a.button .icon{margin:0;width:18px;height:18px;flex:0 0 auto}
-.site-navigation a.button{display:inline-flex;justify-content:center;align-items:center;gap:10px}
-.site-navigation a.button .button-text{flex:0 0 auto}
-.site-navigation a.button .icon{flex:0 0 auto;margin:0}
+.site-navigation a.nav-visit-button{
+  display:inline-flex;justify-content:center;align-items:center;gap:0;padding-inline:19px
+}
+.site-navigation a.nav-visit-button .button-inner{
+  display:inline-flex;align-items:center;justify-content:center;gap:10px;line-height:1
+}
+.site-navigation a.nav-visit-button .button-text{display:block;line-height:1.2}
+.site-navigation a.nav-visit-button .icon{
+  display:block;width:18px;height:18px;margin:0;flex:0 0 18px;transform:none
+}
 body.is-menu-open{overflow:hidden}
 }
 
